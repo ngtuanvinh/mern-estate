@@ -1,9 +1,7 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-import SignIn from "./SignIn";
-import Signup from "./Signup";
+import React from "react";
 
 const Home = () => {
-  return <div>This is Home Page</div>;
+  return <div>Home</div>;
 };
 
 export default Home;
